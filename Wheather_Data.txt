@@ -1,0 +1,109 @@
+{
+    "india":
+     [
+        {
+            "state": "Telangana",
+            "id": 1234,
+            "latitude": 40.765467,
+            "longitude": -76.8666,
+            "weather":
+             {
+                "current weather": {
+                    "temperature": 54.8,
+                    "humidity": 98,
+                    "pressure":1015,
+                    "rain fall": "party cloudy",
+                    "wind direction": "NW"
+                },
+                "forecast": [
+                    {
+                        "date": "10-10-2023",
+                        "temperature": 30.8,
+                        "humidity": 98,
+                        "pressure":1087,
+                        "rain fall": "heavy rain",
+                        "wind direction": "NW"
+                    },
+
+                    {
+                        "date": "11-10-2023",
+                        "temperature": 30.7,
+                        "humidity": 98,
+                        "pressure":1054,
+                        "rain fall": "party cloudy",
+                        "wind direction": "NW"
+                    }
+                ]
+            }
+        },
+
+        {
+            "state": "Andrapradesh",
+            "id": 12345,
+            "latitude": 41.75577,
+            "longitude": -77.8666,
+            "weather": {
+                "current weather": {
+                    "temperature": 48.0,
+                    "humidity": 65,
+                    "pressure":1987,
+                    "rainfall": "heavy rain"
+                },
+                "forecast": [
+                    {
+                        "date": "10-10-2023",
+                        "temperature": 34.8,
+                        "humidity": 98,
+                        "pressure":1987,
+                        "rain fall": "Cloudy",
+                        "wind direction": "NW"
+                    },
+
+                    {
+                        "date": "11-10-2023",
+                        "temperature": 38.7,
+                        "humidity": 93,
+                        "pressure":1987,
+                        "rain fall": "party cloudy",
+                        "wind direction": "NW"
+                    }
+                ]
+            }
+        },
+
+        {
+            "state": "Maharastra",
+            "id": 123456,
+            "latitude": 40.765467,
+            "longitude": -79.8666,
+            "weather": {
+                "current weather": {
+                    "temperature": 32.0,
+                    "humidity": 65,
+                    "pressure":1098,
+                    "rainfall": "moderate cloud",
+                    "wind direction": "WS"
+                },
+                "forecast": [
+                    {
+                        "date": "10-10-2023",
+                        "temperature": 29.8,
+                        "humidity": 98,
+                        "pressure":1034,
+                        "rain fall": "heavy rain",
+                        "wind direction": "NW"
+                    },
+
+                    {
+                        "date": "11-10-2023",
+                        "temperature": 25.7,
+                        "humidity": 98,
+                        "pressure":1023,
+                        "rain fall": "party cloudy",
+                        "wind direction": "NW"
+                    }
+                ]
+            }
+        }
+    ]
+}
