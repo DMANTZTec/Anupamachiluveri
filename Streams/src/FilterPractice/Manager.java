@@ -22,8 +22,9 @@ public class Manager {
 		empData.add(new Employee("Anupama",202,60000,5));
 
 
-		 empData.stream().filter(employe->employe.salary>50000&&employe.experience>2).forEach(e->System.out.println(e));
-
+	empData.stream().filter(employe->employe.salary>50000&&employe.experience>2).forEach(e->System.out.println(e));
+	
+	
 		
 	}
 
